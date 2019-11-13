@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197296456707",
+    "firebase_url": "https://flash-chat-dsd-19-2-f2960.firebaseio.com",
+    "project_id": "flash-chat-dsd-19-2-f2960",
+    "storage_bucket": "flash-chat-dsd-19-2-f2960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197296456707:android:67246fe03b19917908ba36",
+        "android_client_info": {
+          "package_name": "pe.edu.unmsm.rfernandezv.flutter_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197296456707-gt22q6u87q46smvvfkjjv6gk43do8482.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqC8GFjpzh-MkunCluaXEERBkRftuNEkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197296456707-gt22q6u87q46smvvfkjjv6gk43do8482.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
